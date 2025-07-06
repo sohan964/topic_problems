@@ -1,3 +1,8 @@
 1. https://codeforces.com/problemset/problem/381/A ------vector L1C2
 2. https://leetcode.com/problems/peak-index-in-a-mountain-array/description/ ----------vector L1C2
 3.https://lightoj.com/problem/hex-a-bonacci ----------DP array L2C0
+
+Graph Problems:
+https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/ -------L2C4 -----DFS basic
+https://codeforces.com/problemset/problem/445/B ----------L2C4 ---------- DFS Basic
+
